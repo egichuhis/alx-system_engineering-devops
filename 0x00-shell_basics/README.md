@@ -1,1 +1,0 @@
-Script Print Working Directory
